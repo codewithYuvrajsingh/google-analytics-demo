@@ -24,4 +24,4 @@ This is a mini demo website created to practice Google Analytics tracking. The s
 - Track scroll depth and time on page
 
 ## Live Demo
-*(After publishing to GitHub Pages, add your URL here)*
+https://codewithyuvrajsingh.github.io/google-analytics-demo/
